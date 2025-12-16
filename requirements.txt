@@ -1,0 +1,29 @@
+# 运营商指数数据自动收集工具依赖包 - Replit版本
+
+# Web框架
+Flask>=2.0.0
+Jinja2>=3.0.0
+
+# Web自动化
+selenium>=4.0.0
+webdriver-manager>=4.0.0
+
+# 数据处理
+pandas>=1.5.0
+numpy>=1.21.0
+openpyxl>=3.0.0
+
+# 定时任务
+schedule>=1.0.0
+
+# 日志
+loguru>=0.6.0
+
+# 网络请求
+requests>=2.25.0
+
+# 日期处理
+python-dateutil>=2.8.0
+
+# 图像处理
+Pillow>=8.0.0
